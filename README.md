@@ -1,3 +1,5 @@
+# This Project has been Trashed
+
 My first miniproject. A completely AI assited project to help with learning new concepts.
 
 
@@ -11,3 +13,5 @@ Basic logic building done on 17-07-2026
 
 
 ....Build ongoing, Completion target 30-07-2026
+
+
